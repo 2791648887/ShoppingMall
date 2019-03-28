@@ -65,3 +65,4 @@ target/
 # system i gnore
 .DS_ Store
 Thumbs.db
+#src/main/resources/
