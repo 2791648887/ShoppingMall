@@ -11,6 +11,7 @@
 
     <!--指定特定数据库的jdbc驱动jar包的位置-->
     <classPathEntry location="${db.driverLocation}"/>
+<!--    <classPathEntry location="/Users/shidongxiang/.m2/repository/mysql/mysql-connector-java/5.1.31/mysql-connector-java-5.1.31.jar"/>-->
 
     <context id="default" targetRuntime="MyBatis3">
 
